@@ -9,4 +9,4 @@ Este proyecto tiene como finalidad un mejor entendimiento de la programacion ori
 | Integrante |  Numero de cuenta | Usuario de GitHub | 
 | ----------- | :----------: | :--------: | 
 | Aaron Isaac Colindres Barralaga | #20221002478 | [aaroncba](https://github.com/aaroncba) |
-| Orlin Moises Munguia Salgado | #num | [omscenz](https://github.com/omscenz) |
+| Orlin Moises Munguia Salgado | #20231003372| [omscenz](https://github.com/omscenz) |
