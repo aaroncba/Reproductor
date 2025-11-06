@@ -136,7 +136,8 @@ id, email, author, name, album, genre, duration
 ## Diagramas
 
 ![imagen de diagrama UML](https://github.com/aaroncba/Reproductor/blob/main/Diagramas/Diagrama_UML_user_cancion.png)
-
+![imagen de diagrama UML]([https://github.com/aaroncba/Reproductor/blob/main/Diagramas/Diagrama_UML_user_cancion.png](https://github.com/aaroncba/Reproductor/blob/main/Diagramas/diagrama_2.jpg
+))
 
 
 ## Complementos
