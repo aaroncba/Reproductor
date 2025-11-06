@@ -21,6 +21,10 @@ id, email, author, name, album, genre, duration
 01, jon@gmai.com.c, Jon, Song_1, album_1, Alternative Rock, 123 
 ```
 
+## Diagramas
+
+![imagen de diagrama UML](https://github.com/aaroncba/Reproductor/blob/main/Diagramas/Diagrama_UML_user_cancion.png)
+
 
 
 ## Complementos
