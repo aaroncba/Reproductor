@@ -21,9 +21,10 @@ id, email, author, name, album, genre, duration
 01, jon@gmai.com.c, Jon, Song_1, album_1, Alternative Rock, 123 
 ```
 
-Se utilizaran los siguentes modelos de datos: 
 
-* Song.model
+
+## Complementos
+![imagen de complemento](https://github.com/aaroncba/Reproductor/blob/main/imagenes%20de%20complemento/Informacion_complemento.png)
 
 
 # Integrantes
